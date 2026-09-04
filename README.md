@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/gaurab72">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;Open+Source+Enthusiast" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;DSA+Enthusiast" alt="Typing Animation">
   </a>
 </p>
 
@@ -30,9 +30,17 @@
 
 ---
 
+## 💻 Live Coding Animation
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=4000&pause=500&color=0e75b6&center=true&vCenter=true&width=700&lines=const+developer+%3D+%7B;++++name%3A+'Gaurab+Hamal',;++++skills%3A+%5B'C'%2C'C%2B%2B'%2C'Java'%2C'Python'%5D,;++++passion%3A+'Building+scalable+solutions',;++++status%3A+'Always+Learning+%F0%9F%9A%80';%7D;" alt="Live Coding">
+</p>
+
+---
+
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with strong expertise in core programming languages and web technologies. I focus on building efficient, scalable solutions using fundamental programming concepts and competitive programming practices.
+I'm a passionate full-stack developer with strong expertise in core programming languages and web technologies. I focus on building efficient, scalable solutions using fundamental programming concepts.
 
 - 🎓 **Education**: BIM (Bachelor of Information Management) | Tribhuvan University
 - 📍 **Location**: Nepal 🇳🇵
@@ -77,8 +85,8 @@ I'm a passionate full-stack developer with strong expertise in core programming 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gaurab72&show_icons=true&count_private=true&theme=react&border_color=0e75b6&bg_color=0D1117&title_color=0e75b6&text_color=white" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab72&layout=compact&theme=react&border_color=0e75b6&bg_color=0D1117&title_color=0e75b6&text_color=white" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gaurab72&show_icons=true&count_private=true&theme=react&border_color=0e75b6&bg_color=0D1117&title_color=0e75b6&text_color=white" alt="GitHub Stats">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurab72&layout=compact&theme=react&border_color=0e75b6&bg_color=0D1117&title_color=0e75b6&text_color=white" alt="Top Languages">
 </p>
 
 <p align="center">
@@ -197,7 +205,7 @@ I'm a passionate full-stack developer with strong expertise in core programming 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+amazing+things+together;Happy+coding+%E2%9C%A8" alt="Closing Message" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Happy+Coding+%F0%9F%A4%98" alt="Thank you">
 </p>
 
 <p align="center">
