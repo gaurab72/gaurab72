@@ -36,6 +36,10 @@
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="coding animation" width="700"/>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="professional animation" width="320"/>
+</p>
+
 ---
 
 ## 🚀 About Me
