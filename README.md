@@ -212,5 +212,5 @@ I'm a passionate full-stack developer with strong expertise in core programming 
 </p>
 
 <p align="center">
-  <b>Made with ❤️ by Gaurab Hamal</b>
+
 </p>
